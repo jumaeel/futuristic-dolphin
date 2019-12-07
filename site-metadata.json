@@ -20,7 +20,7 @@
     "has_subscribe": false,
     "social_title": "Follow us",
     "tagline": "All Rights reserved",
-    "logo_img": "/images/logo.jpg",
+    "logo_img": "",
     "has_social": true,
     "content": "&copy;  All rights reserved.",
     "links": [
@@ -30,7 +30,7 @@
         "new_window": true
       }
     ],
-    "nav_title": "Organization",
+    "nav_title": "Follow us",
     "has_nav": true
   }
 }
