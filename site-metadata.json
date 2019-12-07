@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Platform for Ingenuity and Enlightenment",
-    "logo_img": "/images/logo-2-02.png",
+    "logo_img": "/images/logo.jpg",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -18,7 +18,7 @@
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": false,
-    "social_title": "Organisation",
+    "social_title": "Follow us",
     "tagline": "All Rights reserved",
     "logo_img": "",
     "has_social": true,
@@ -30,7 +30,7 @@
         "new_window": true
       }
     ],
-    "nav_title": "Company",
+    "nav_title": "Organization",
     "has_nav": true
   }
 }
