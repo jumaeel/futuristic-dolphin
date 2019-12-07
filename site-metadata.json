@@ -9,7 +9,7 @@
       "actions": [
         {
           "label": "Meet us",
-          "url": "m.me/events.pie"
+          "url": "https://m.me/events.pie"
         }
       ]
     }
