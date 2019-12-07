@@ -8,8 +8,8 @@
     "menu": {
       "actions": [
         {
-          "label": "Sign Up",
-          "url": "/signup"
+          "label": "Meet us",
+          "url": "m.me/events.pie"
         }
       ]
     }
