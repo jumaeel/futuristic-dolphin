@@ -6,7 +6,7 @@ sections:
         url: /features
     content: "P.I.E (Platform for Ingenuity and Enlightenment) is an event organized and run by a team of youth in the Maldives.\r\n\nThe main purpose of the event is to empower the youth and their creative unique ideas."
     image: /images/home.png
-    section_id: hero
+    section_id: Intro
     title: We are PIE!
     type: section_hero
   - bg: gray
